@@ -1,4 +1,4 @@
-Prerequesties:
+Prerequisites
 ```
 #install python3
 apt install python3
